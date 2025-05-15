@@ -1,0 +1,47 @@
+site_name: Aggressor TTP's
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+      name: squidfunk on Fosstodon
+  generator: false
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: custom
+  logo: assets/logo-aggressor.png
+  features:
+    - navigation.tabs                     # pestañas superiores
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+  plugins:
+    - search
+    - tags
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+copyright: Recopilación elaborada por Clan Aggressor LATAM &copy; 2019 - 2025
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - INTRO: index.md
+  - TTP:
+      - Inicio TTP:         ttp/index.md
+      - Tirador designado:  ttp/tirador-designado.md
+  - DRILLS:
+      - DRILLS: drills/drills.md
+  - TLP:
+      - TLP: tlp/tlp.md
