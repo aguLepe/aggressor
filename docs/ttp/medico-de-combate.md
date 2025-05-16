@@ -42,3 +42,26 @@ Vehículo Artillado, Presencia de Fuego Indirecto enemigo, cantidad de
 suministros médicos, Orden de movimiento por Líder, etc.
 
 ## Equipamiento del Médico
+| ÍTEM                                      | CANTIDAD        |
+|:------------------------------------------|:----------------|
+| `ECH-M LC (Ral/Velcro) + LC Helmet Cover` | n/a             |
+| `G3 Battle Shirt`                         | n/a |
+| `G3 Battle Pant`                          | n/a |
+| `G3 Battle Shirt`                         | n/a |
+| `G3 Battle Pant`                          | n/a |
+| `G3 Battle Shirt`                         | n/a |
+| `G3 Battle Pant`                          | n/a |
+| `G3 Battle Shirt`                         | n/a |
+| `G3 Battle Pant`                          | n/a |
+| `G3 Battle Shirt`                         | n/a |
+| `G3 Battle Pant`                          | n/a |
+| `G3 Battle Shirt`                         | n/a |
+| `G3 Battle Pant`                          | n/a |
+
+
+<br>
+<br>
+![Texto alternativo descriptivo](../assets/images/medic/med-equip1.png)
+<br>
+<br>
+![Texto alternativo descriptivo](../assets/images/medic/med-equip1.png)
