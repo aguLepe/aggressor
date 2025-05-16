@@ -206,9 +206,11 @@ Además muestra la manera de cómo tratar desde el inicio a un herido para poder
 
 En casos donde sean <b>MÚLTIPLES</b> los heridos se debe realizar el triage por personas de mayor a menor gravedad de sus SV + Consideración de tipo de Hemorragia presente. 
 
-Los Factores para tomar esta toma de decisiones deben ser en base al contexto que se enfrenta ejemplo: N° de enemigos cercanos, presencia de Vehículo Artillado, presencia de Fuego Indirecto enemigo, cantidad de insumos médicos disponibles, Órden de Líder. 
+Los Factores para tomar esta toma de decisiones deben ser en base al contexto que se enfrenta ejemplo: N° de enemigos cercanos, presencia de Vehículo Artillado, presencia de Fuego Indirecto enemigo, cantidad de insumos médicos disponibles, Órden de Líder.
 
-![](../assets/images/medic/med-flujo1.png){ .glightbox }
+ <a href="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" class="glightbox" data-gallery="medic">
+    <img src="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" alt="Equipamiento 1" />
+  </a>
 
 ---
 
