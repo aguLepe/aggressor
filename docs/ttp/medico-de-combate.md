@@ -1,5 +1,6 @@
 ---
 icon: material/medical-bag
+glightbox-manual: true
 ---
 
 #  :material-medical-bag: Médico de Combate
@@ -198,3 +199,41 @@ Actualmente la sincronización de la hora RELOJ (ítem) vs La hora de administra
 ---
 
 ## Flujograma de atención al herido
+
+Es como debería ser el actuar de la persona encargada del Rol de Médico, en los distintos escenarios que se presenten tanto en Estado de conciencia y gravedad (SV).
+
+Además muestra la manera de cómo tratar desde el inicio a un herido para poder recuperarlo lo antes posible para volver al combate. 
+
+En casos donde sean <b>MÚLTIPLES</b> los heridos se debe realizar el triage por personas de mayor a menor gravedad de sus SV + Consideración de tipo de Hemorragia presente. 
+
+Los Factores para tomar esta toma de decisiones deben ser en base al contexto que se enfrenta ejemplo: N° de enemigos cercanos, presencia de Vehículo Artillado, presencia de Fuego Indirecto enemigo, cantidad de insumos médicos disponibles, Órden de Líder. 
+
+![](../assets/images/medic/med-flujo1.png){ .glightbox }
+
+---
+
+## Paro Cardiaco
+
+El Paro Cardiaco, es el cese de las funciones del corazón por consiguiente la pronta muerte inminente de la persona herida.
+
+Para esto se establece el Protocolo de asistencia a Paro Cardiaco por parte de Medico Combate
+
+### Escena Segura (Conciencia Situacional)
+
+1.	Tomar Pulso al paciente (Se identifica el estado del paciente) 
+2.	Pulso, en Paro Cardiaco se encontrara en 0  (La PA igual estará en 0/0 mmhg)
+3.	==Iniciar Compresiones (RCP) por al menos 1 min :asterisk: seguidas sin interrupciones :asterisk:==
+4.  Inyecte 1 epinefrina en algún brazo (Esperar 1 min para próxima dosis)
+5.	Administre Salino  según Presión + Clase de Hemorragia. 
+6.	Una vez terminado el tiempo de RCP , vuelva a repetir paso 1. 	
+7.	Si el paciente sigue en PCR, inyecte 1 epinefrina (según última dosis)
+8.	Luego reinicie RCP por al menos 1 min de compresiones. Y vuelva a repetir paso 2.
+9.	Cuando ocurre que tiene pulso presente (ósea >0). Pase al flujograma de Escenario 1 o 2.
+
+
+!!! info ":asterisk:"
+    :asterisk: Si es el Único Médico y puede delegar este rol a otros soldados (contexto) para la administración de tratamiento, HÁGALO.(posterior vuelva a realizar RCP, usted si es necesario).<br>
+    :asterisk: Si son ≥ 2 Médico atendiendo a un paciente se deben repartir los Roles con comunicación asertiva.<br>
+    :asterisk: La cantidad de cuanto RCP realizar, es variada, se debe hacer hasta que tenga pulso + dar tiempo a la Administración de Salino (Para recuperación de volumen).<br>
+
+

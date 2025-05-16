@@ -2,6 +2,10 @@ site_name: Aggressor TTP's
 site_url: https://agulepe.github.io/aggressor/
 extra_css:
   - stylesheets/extra.css
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
+  - assets/js/init-glightbox.js
 extra:
   social:
     - icon: fontawesome/brands/mastodon
@@ -31,12 +35,28 @@ theme:
     - search
     - tags
     - typeset
-    - glightbox
+    - glightbox:
+        touchNavigation: true
+        loop: false
+        effect: zoom
+        slide_effect: slide
+        width: 100%
+        height: auto
+        zoomable: true
+        draggable: true
+        skip_classes:
+          - custom-skip-class-name
+        auto_caption: false
+        caption_position: bottom
+        background: white
+        shadow: true
+        manual: true
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
 copyright: Recopilación elaborada por Clan Aggressor LATAM &copy; 2019 - 2025
 markdown_extensions:
+  - meta
   - admonition
   - attr_list
   - pymdownx.critic
