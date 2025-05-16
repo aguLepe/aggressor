@@ -1,4 +1,4 @@
-site_name: Aggressor TTP's
+site_name: Clan Aggressor LATAM | Biblioteca de conocimientos
 site_url: https://agulepe.github.io/aggressor/
 extra_css:
   - stylesheets/extra.css
@@ -92,5 +92,6 @@ nav:
       - Médico de combate: ttp/medico-de-combate.md
   - DRILLS:
       - Drills de combate: drills/index.md
+      - 1A | Ataque de escuadra: drills/ataque-escuadra.md
   - TLP:
       - Troop Leading Procedures: tlp/index.md
