@@ -87,7 +87,7 @@ Este reporte se utiliza para proporcionar una alerta temprana y precisa sobre un
 
 ### Estimación de distancia manual
 
-1. **Conoce la dimensión real** del blanco (p.ej. figura humana ≈ 1.7 m de alto).
+1. **Conoce la dimensión real** del blanco (figura humana = 1.8 m de altura).
 
 
 2. **Cuenta los mildots** que ocupa el blanco en la retícula: Cada espacio entre puntos equivale a 1 mil.
