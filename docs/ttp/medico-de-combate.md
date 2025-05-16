@@ -208,9 +208,9 @@ En casos donde sean <b>MÚLTIPLES</b> los heridos se debe realizar el triage por
 
 Los Factores para tomar esta toma de decisiones deben ser en base al contexto que se enfrenta ejemplo: N° de enemigos cercanos, presencia de Vehículo Artillado, presencia de Fuego Indirecto enemigo, cantidad de insumos médicos disponibles, Órden de Líder.
 
- <a href="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" class="glightbox" data-gallery="medic">
+<a href="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" class="glightbox" data-gallery="medic">
     <img src="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" alt="Equipamiento 1" />
-  </a>
+</a>
 
 ---
 
@@ -238,4 +238,6 @@ Para esto se establece el Protocolo de asistencia a Paro Cardiaco por parte de M
     :asterisk: Si son ≥ 2 Médico atendiendo a un paciente se deben repartir los Roles con comunicación asertiva.<br>
     :asterisk: La cantidad de cuanto RCP realizar, es variada, se debe hacer hasta que tenga pulso + dar tiempo a la Administración de Salino (Para recuperación de volumen).<br>
 
-
+<a href="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo2.png" class="glightbox" data-gallery="medic">
+    <img src="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo2.png" alt="Equipamiento 1" />
+</a>
