@@ -39,7 +39,7 @@ markdown_extensions:
 nav:
   - INTRO: index.md
   - TTP:
-      - Inicio TTP:         ttp/index.md
+      - Tácticas, Técnicas y Procedimientos:         ttp/index.md
       - Tirador designado:  ttp/tirador-designado.md
   - DRILLS:
       - DRILLS: drills/drills.md
