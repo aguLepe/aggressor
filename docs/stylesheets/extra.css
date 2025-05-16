@@ -7,3 +7,11 @@
 .md-sidebar--secondary {
   display: none;
 }
+
+.yes {
+    color: #129903;
+}
+
+.not {
+    color: #cc0404;
+}

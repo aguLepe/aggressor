@@ -144,7 +144,7 @@ La clase de hemorragia, dictara <b>cuánta</b> solución salina (SS) necesitará
 También debe tener en consideración a la hora de la administración de SS con la <b>presión arterial</b>. Ya que el SS no solo aumenta el volumen sanguíneo sino también la Presión Arterial.
 
 ---
-# Inyectores
+## Inyectores
 El rol de Médico tiene disponible dentro de su equipamientos, estos inyectores que ayudan a la estabilización y/o recuperación del estado de salud del herido. Siempre se debe tener en consideración la <b>“Hora”</b> de administración del Inyector, ya que la sobredosis de estos pueden causar la descompensación y/o muerte del herido. 
 
 Actualmente la sincronización de la hora RELOJ (ítem) vs La hora de administración mostrada en “COMPROBACIÓN DE HERIDAS” tendría un delay de 1-2 min. Siendo la hora RELOJ (ítem) más retrasada. 
@@ -158,3 +158,39 @@ Actualmente la sincronización de la hora RELOJ (ítem) vs La hora de administra
 | Naloxone           | Trata la sobredosis de morfina                                                                                    |
 | Phenylephrine      | - Disminuye el sangrado y las transfusiones <br>- Aumenta la presión arterial.                                    |
 
+### Tabla de Aplicación de Inyectores según SV
+
+#### Aplicación de Fármaco Metoprolol       
+
+| SIGNOS VITALES (SV) |                BRADICARDIA                |                   TAQUICARDIA                   |
+|---------------------|:-----------------------------------------:|:-----------------------------------------------:|
+| Presión Alta        | :fontawesome-solid-circle-xmark:{ .not }  |    :fontawesome-solid-circle-check:{ .yes }     |
+| Presión Normal      | :fontawesome-solid-circle-xmark:{ .not }  |    :fontawesome-solid-circle-check:{ .yes }     |
+| Presión Baja        | :fontawesome-solid-circle-xmark:{ .not }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+
+#### Aplicación de Fármaco Epinephrine        
+
+| SIGNOS VITALES (SV) |                BRADICARDIA                |                   TAQUICARDIA                   |
+|---------------------|:-----------------------------------------:|:-----------------------------------------------:|
+| Presión Alta        | :fontawesome-solid-circle-xmark:{ .not }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+| Presión Normal      | :fontawesome-solid-circle-check:{ .yes }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+| Presión Baja        | :fontawesome-solid-circle-check:{ .yes }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+
+#### Aplicación de Fármaco Phenylephrine        
+
+| SIGNOS VITALES (SV) |                BRADICARDIA                |                   TAQUICARDIA                   |
+|---------------------|:-----------------------------------------:|:-----------------------------------------------:|
+| Presión Alta        | :fontawesome-solid-circle-check:{ .yes }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+| Presión Normal      | :fontawesome-solid-circle-check:{ .yes }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+| Presión Baja        | :fontawesome-solid-circle-check:{ .yes }  |    :fontawesome-solid-circle-xmark:{ .not }     |
+
+#### Tabla Resumen de inyectores
+
+| INYECTOR  | Tmax Efc     | Vida media    | Sobredosis (Referencia estimada) | Sobredosis PC (Referencia estimada) |
+|:----------|:-------------|:--------------|:---------------------------------|-------------------------------------|
+| Ammonium carbonate  | 2 a 3 seg    | 3 a 4 seg     | -                                | -                                   |
+| Epinephrine | 23 seg       | 1 min 3 seg   | -                                | 4,4                                 |
+| Phenylephrine   | 29 seg       | 1 min 18 seg  | -                                | 2,9                                 |
+| Metoprolol | 25 seg       | 1 min 9 seg   | 2,8                              | >3                                  |
+| Morphine | 1 min 57 seg | 15 min 20 seg | 3,1                              | 3,8                                 |
+| Naloxone | 1 min 35 seg | 7 min 26 seg  | -                                | -                                   |
