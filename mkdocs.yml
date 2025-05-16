@@ -42,6 +42,7 @@ nav:
   - TTP:
       - Tácticas, Técnicas y Procedimientos:         ttp/index.md
       - Tirador designado:  ttp/tirador-designado.md
+      - Médico de combate: ttp/medico-de-combate.md
   - DRILLS:
       - DRILLS: drills/drills.md
   - TLP:
