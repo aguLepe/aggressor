@@ -132,13 +132,13 @@ Los volúmenes sanguíneos se clasifican en seis clases
 
 
 | N° | CLASE DE HEMORRAGIA  | PÉRDIDA DE SANGRE |
-|----|----------------------|-----------------|
-| 0  | NORMAL               | `NORMAL`        |
-| 1  | Clase I              | `Pérdida < 20%` |
-| 2  | Clase II             | `Pérdida < 30%` |
-| 3  | Clase III            | `Pérdida < 60%` |
-| 4  | Clase IV             | `Pérdida < 80%` |
-| 5  | Clase V - ==MORTAL== | `Pérdida 100%`  |
+|----|----------------------|----------------|
+| 0  | NORMAL               | `NORMAL`       |
+| 1  | Clase I              | `Pérdida < 30%` |
+| 2  | Clase II             | `Pérdida  30%` |
+| 3  | Clase III            | `Pérdida  60%` |
+| 4  | Clase IV             | `Pérdida  80%` |
+| 5  | Clase V - ==MORTAL== | `Pérdida 100%` |
 
 La clase de hemorragia, dictara <b>cuánta</b> solución salina (SS) necesitará el soldado herido para reponer volumen sanguíneo. 
 
@@ -241,3 +241,6 @@ Para esto se establece el Protocolo de asistencia a Paro Cardiaco por parte de M
 <a href="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo2.png" class="glightbox" data-gallery="medic">
     <img src="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo2.png" alt="Equipamiento 1" />
 </a>
+
+!!! info "ACE Medical Prototypes"
+    Parametros, configuración y flujogramas presentes en esta documentación han sido inferidos/extraídos desde la documentación del mod [:material-link: ACE Medical Prototypes](https://github.com/acemod/ACE-Anvil/blob/medical-prototypes/cardiovascular-system/docs/src/content/docs/components/medical-prototypes.mdx){:target="_blank" rel="noopener noreferrer"}

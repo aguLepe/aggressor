@@ -1,11 +1,33 @@
 :root  > * {
-  --md-primary-fg-color:        #EE0F0F;
+  --md-primary-fg-color:        #1a1918;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
+  --md-typeset-a-color: #EE0F0F;
+  --md-accent-fg-color: #EE0F0F;
+
+}
+.md-button {
+    background-color: #990000 !important;
+    border-color: #990000 !important;
+}
+
+.md-button:hover {
+    background-color: #EE0F0F !important;
+    border-color: #EE0F0F !important;
+}
+
+h1, h2, h3, h4 {
+    color: #fff !important;
 }
 
 .md-sidebar--secondary {
   display: none;
+}
+
+mark {
+    background-color: #000 !important;
+    padding: 4px !important;
+    color: white !important;
 }
 
 .yes {

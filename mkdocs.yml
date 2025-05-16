@@ -8,9 +8,24 @@ extra_javascript:
   - assets/js/init-glightbox.js
 extra:
   social:
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
-      name: squidfunk on Fosstodon
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/sYUM6NQ4yN
+      name: Call Aggressor en Discord
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/ClanAgrressorArmaIII
+      name: Call Aggressor en Facebook
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/clan.aggressor/
+      name: Call Aggressor en Instagram
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ClanAggressor-vn4db
+      name: Call Aggressor en Youtube
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@clan.aggressor
+      name: Call Aggressor en Tiktok
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/groups/CLANAGGRESSOR
+      name: Call Aggressor en Steam
   generator: false
 theme:
   language: es
@@ -18,10 +33,10 @@ theme:
   palette:
     scheme: slate
     primary: custom
+    accent: red
   logo: assets/logo-aggressor.png
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.instant
     - navigation.tracking
     - navigation.top
