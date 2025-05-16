@@ -1,24 +1,26 @@
-# :material-wave-arrow-up: Drill #1A | Ataque de escuadra
+# :material-wave-arrow-up: Drill #1B | Ataque de pelotón
 
 ## Representación gráfica
 
-![Formula de estimación de distancia con mira basada en mildots](../assets/images/drills/drill1a.png)
+AGERGAR IMAGEN
 
 ## Descripción
 
-Situacion: La Escuadra se mueve conduciendo un “movimiento a contacto” o un ataque apresurado, o deliberado.
+**Situacion:** El Pelotón se mueve conduciendo un “movimiento a contacto” o un ataque apresurado, o deliberado.
 
 **Acciones:**
-1. El líder planea cómo establecer una base de fuego y cuando inicia el contacto. En caso
-de que el enemigo inicie el contacto primero se debe reaccionar al contacto (DRILL #2).
 
+1. El líder planea dónde establecer una base de fuego y cuando inicia el contacto. En caso
+de que el enemigo inicie el contacto primero se debe reaccionar al contacto (DRILL #2).
 2. Se ubica al enemigo y se suprime con armas automáticas ya sea por volumen o
 precisión de fuegos. Se despliega humo (M203) para ocultar el movimiento del elemento
 maniobra. También se utilizan fuegos indirectos y no se espera en este apartado.
 3. Si se obtuvo superioridad de fuego, se maniobra un elemento hasta la posición de
 asalto.
 4. Se detienen los fuegos indirectos, o se cambian al flanco contrario del asalto.
-5. El elemento de maniobra asalta la posición por fuego y movimiento.
+5. El elemento de maniobra asalta la posición por fuego y movimiento. Cambiando la
+dirección de los fuegos al lado contrario del vector de ataque, con el fin de evitar el
+fuego amigo.
 6. Una vez que se ha tomado la posición enemiga, se establece un perímetro esperando
 un contraataque (Se es más vulnerable al final de un asalto.) El elemento de base de
 fuego toma posiciones designadas por el líder. Se asignan sectores de fuego a cubrir.

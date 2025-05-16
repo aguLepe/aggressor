@@ -92,6 +92,8 @@ nav:
       - Médico de combate: ttp/medico-de-combate.md
   - DRILLS:
       - Drills de combate: drills/index.md
-      - 1A | Ataque de escuadra: drills/ataque-escuadra.md
+      - Drill 1A | Ataque de escuadra: drills/ataque-escuadra.md
+      - Drill 1B | Ataque de pelotón: drills/ataque-peloton.md
+      - Drill 2  | Reacción a contacto: drills/reaccion-a-contacto.md
   - TLP:
       - Troop Leading Procedures: tlp/index.md
