@@ -9,13 +9,14 @@ extra:
       name: squidfunk on Fosstodon
   generator: false
 theme:
+  language: es
   name: material
   palette:
     scheme: slate
     primary: custom
   logo: assets/logo-aggressor.png
   features:
-    - navigation.tabs                     # pestañas superiores
+    - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
     - navigation.tracking
@@ -23,10 +24,13 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - navigation.footer
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
   plugins:
     - search
     - tags
+    - typeset
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
@@ -34,16 +38,21 @@ copyright: Recopilación elaborada por Clan Aggressor LATAM &copy; 2019 - 2025
 markdown_extensions:
   - admonition
   - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 nav:
   - INTRO: index.md
   - TTP:
-      - Tácticas, Técnicas y Procedimientos:         ttp/index.md
+      - Tácticas, Técnicas y Procedimientos: ttp/index.md
       - Tirador designado:  ttp/tirador-designado.md
       - Médico de combate: ttp/medico-de-combate.md
   - DRILLS:
-      - DRILLS: drills/drills.md
+      - Drills de combate: drills/index.md
   - TLP:
-      - TLP: tlp/tlp.md
+      - Troop Leading Procedures: tlp/index.md

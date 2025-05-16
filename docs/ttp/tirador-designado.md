@@ -1,4 +1,7 @@
-## Introducción
+---
+icon: material/target-account
+---
+# :material-target-account: Tirador Designado
 <h3>Bienvenido a la Biblioteca de conocimientos de <span style="color: #EE0F0F;">Clan Aggressor Latam</span></h3>
 Este repositorio tiene la documentación necesaria para desenvolverte como un infante capaz en el contexto milsim de nuestro clan. Encontrarás el conocimiento para cumplir los objetivos de cada rol: soldado, espcialista, un lider de fire team, un lider de escuadra, lider de pelotón, etc.
 

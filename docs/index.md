@@ -8,13 +8,13 @@ Este repositorio tiene la documentación necesaria para desenvolverte como un in
 
 A continuación te dejamos el índice de las categorías de contenido:
 
-- [TTP](ttp/index) - `Tácticas, Técnicas y Procedimientos`
-- [DRILLS](drills/drills.md) - `Drills de combate`
-- [TLP](tlp/tlp.md) - `Troop leading procedures`
+- [TTP](ttp/) - `Tácticas, Técnicas y Procedimientos`
+- [DRILLS](drills/) - `Drills de combate`
+- [TLP](tlp/) - `Troop leading procedures`
 <br>
 <br>
 
-[:fontawesome-brands-discord: Únete al clan y Juega con nosotros](https://discord.gg/sYUM6NQ4yN){ .md-button .md-button--primary }
+[:fontawesome-brands-discord: Únete al clan](https://discord.gg/sYUM6NQ4yN){ .md-button .md-button--primary }
 <br>
 <br>
 <br>

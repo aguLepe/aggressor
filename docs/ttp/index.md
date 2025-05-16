@@ -1,4 +1,4 @@
-# Tácticas, Técnicas y Procedimientos (TTP)
+# Tácticas, Técnicas y Procedimientos
 
 Bienvenido al repositorio de TTP.  
 Aquí encontrarás:
