@@ -194,3 +194,7 @@ Actualmente la sincronización de la hora RELOJ (ítem) vs La hora de administra
 | Metoprolol | 25 seg       | 1 min 9 seg   | 2,8                              | >3                                  |
 | Morphine | 1 min 57 seg | 15 min 20 seg | 3,1                              | 3,8                                 |
 | Naloxone | 1 min 35 seg | 7 min 26 seg  | -                                | -                                   |
+
+---
+
+## Flujograma de atención al herido
