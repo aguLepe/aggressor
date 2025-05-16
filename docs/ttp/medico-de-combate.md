@@ -210,6 +210,10 @@ Los Factores para tomar esta toma de decisiones deben ser en base al contexto qu
 
 ![](../assets/images/medic/med-flujo1.png){ .glightbox }
 
+ <a href="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" class="glightbox" data-gallery="medic">
+    <img src="https://agulepe.github.io/aggressor/assets/images/medic/med-flujo1.png" alt="Equipamiento 1" />
+  </a>
+
 ---
 
 ## Paro Cardiaco
