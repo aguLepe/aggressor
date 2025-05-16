@@ -1,4 +1,5 @@
 site_name: Aggressor TTP's
+site_url: https://agulepe.github.io/aggressor/
 extra_css:
   - stylesheets/extra.css
 extra:
