@@ -95,5 +95,13 @@ nav:
       - Drill 1A | Ataque de escuadra: drills/ataque-escuadra.md
       - Drill 1B | Ataque de pelotón: drills/ataque-peloton.md
       - Drill 2  | Reacción a contacto: drills/reaccion-a-contacto.md
+      - Drill 3  | Quiebre de contacto: drills/quiebre-contacto.md
+      - Drill 4  | Reacción a emboscada: drills/reaccion-emboscada.md
+      - Drill 5  | Neutralizar bunker: drills/neutralizar-bunker.md
+      - Drill 6  | Neutralizar la trinchera: drills/despejar-trinchera.md
+      - Drill 7  | Brecha de obstáculo Alambrado-Minado: drills/brecha-obstaculo.md
+      - Drill 8  | Desembarco con lanchas: drills/desembarco.md
+      - Drill 9  | Reacción a fuego indirecto: drills/reaccion-fi.md
+
   - TLP:
       - Troop Leading Procedures: tlp/index.md
