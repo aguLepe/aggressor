@@ -2,7 +2,7 @@
 
 ## Representación gráfica
 
-AGERGAR IMAGEN
+![Ataque de peloton](../assets/images/drills/ataque-peloton.JPG)
 
 ## Descripción
 
@@ -28,3 +28,14 @@ fuego toma posiciones designadas por el líder. Se asignan sectores de fuego a c
 salud, casevacs, suministros aliados y enemigos y se crea un rápido plan de fuegos de
 parte del FO.
 8. Se reporta la situación al oficial al mando.
+
+## Video explicativo
+
+<iframe 
+  width="680"
+  height="500"
+  src="https://www.youtube.com/embed/vfODXTILWXk" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>

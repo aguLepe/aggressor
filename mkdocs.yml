@@ -50,6 +50,7 @@ theme:
     - search
     - tags
     - typeset
+    - mkdocs-video
     - glightbox:
         touchNavigation: true
         loop: false
