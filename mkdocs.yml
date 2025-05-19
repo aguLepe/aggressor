@@ -28,7 +28,6 @@ extra:
       name: Call Aggressor en Steam
   generator: false
 theme:
-  favicon: assets/images/favicon.ico
   language: es
   name: material
   palette:
