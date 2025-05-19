@@ -27,6 +27,10 @@ salud, casevacs, suministros aliados y enemigos y se crea un rápido plan de fue
 parte del FO.
 8. Se reporta la situación al oficial al mando.
 
+!!! danger "PRO TIP"
+    El movimiento sin fuego está prohibido :no_pedestrians:
+    <br> El fuego sin movimiento debe ser evitado
+
 ## Video explicativo
 
 <iframe 

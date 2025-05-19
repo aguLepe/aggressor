@@ -243,4 +243,4 @@ Para esto se establece el Protocolo de asistencia a Paro Cardiaco por parte de M
 </a>
 
 !!! info "ACE Medical Prototypes"
-    Parametros, configuración y flujogramas presentes en esta documentación han sido inferidos/extraídos desde la documentación del mod [:material-link: ACE Medical Prototypes](https://github.com/acemod/ACE-Anvil/blob/medical-prototypes/cardiovascular-system/docs/src/content/docs/components/medical-prototypes.mdx){:target="_blank" rel="noopener noreferrer"}
+    Parámetros, configuración y flujogramas presentes en esta documentación han sido inferidos/extraídos desde la documentación del mod [:material-link: ACE Medical Prototypes](https://github.com/acemod/ACE-Anvil/blob/medical-prototypes/cardiovascular-system/docs/src/content/docs/components/medical-prototypes.mdx){:target="_blank" rel="noopener noreferrer"}

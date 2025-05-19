@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 # Introducción
 <h3>Bienvenido a la Biblioteca de conocimientos de <span style="color: #EE0F0F;">Clan Aggressor Latam</span></h3>

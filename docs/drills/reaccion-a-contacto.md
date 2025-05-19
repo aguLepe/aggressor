@@ -21,6 +21,10 @@ movimiento en donde el binomio/Unidad que ==NO== es del líder se mueve primero.
 6. Si el líder lo estima conveniente transicionar a un ataque de escuadra (Drill #1A) o a un
 quiebre de contacto (Drill #3)
 
+!!! danger "PRO TIP"
+    El movimiento sin fuego está prohibido :no_pedestrians:
+    <br> El fuego sin movimiento debe ser evitado
+
 ## Video explicativo
 
 <iframe 
@@ -31,3 +35,13 @@ quiebre de contacto (Drill #3)
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
+
+<iframe 
+  width="680"
+  height="500"
+  src="https://www.youtube.com/embed/MIMlC1NAq-s" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
